@@ -1,0 +1,12 @@
+venv*
+.idea
+*.sw*
+*.pyc
+craw_page.txt
+log*
+log.out
+ghostdriver.log
+out.txt
+phantomjs
+out*
+tags
